@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="[https://www.linkedin.com/in/satria-indra-mulyana-03j/](https://www.linkedin.com/in/satria-indra-mulyana-03j/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/satria-indra-mulyana-03j/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
