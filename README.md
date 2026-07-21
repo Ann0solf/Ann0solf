@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🔭 I'm currently building small projects to sharpen my programming skills — currently loving **Laravel**
-- 🌱 I'm currently learning **Go, Linux, Git, Docker, VS Code & GitHub**
+- 🌱 I'm currently learning **Go, Linux, Git & Docker**
 - 👯 I'm looking to collaborate on **open-source tools** and **security-related projects**
 - 🤔 I'm looking for help understanding **low-level programming, operating systems, and exploit development**
 - 💬 Ask me about **Go, Linux, Git**, or my learning journey
