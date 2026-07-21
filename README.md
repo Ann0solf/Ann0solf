@@ -48,9 +48,9 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://www.linkedin.com/in/satria-indra-mulyana-03j/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.instagram.com/annosolf?igsh=MWJ4aWVpYXJteHpueg==" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/satria-indra-mulyana-03j/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:satriaindramulyana@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 <p align="center">
